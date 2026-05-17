@@ -2,11 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="480.40302"
-   height="480.40302"
-   viewBox="0 0 127.10662 127.10662"
+   viewBox="-1 -1 129 129"
    version="1.1"
-   id="svg1"
+   id="twinsen"
    xml:space="preserve"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="twinsen-base.svg"
@@ -31,15 +29,15 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="167.5843"
-     inkscape:cy="186.32263"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="43.575454"
+     inkscape:cy="66.909977"
      inkscape:window-width="1920"
-     inkscape:window-height="1137"
+     inkscape:window-height="1129"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="biggrin-mouth"
      showgrid="false"><inkscape:grid
        id="grid28"
        units="px"
@@ -50,7 +48,7 @@
        empcolor="#0099e5"
        empopacity="0.30196078"
        color="#0099e5"
-       opacity="0.14901961"
+       opacity="0.14902"
        empspacing="5"
        dotted="false"
        gridanglex="30"
@@ -408,7 +406,7 @@
        fy="58.165226"
        r="11.225746" /></defs><g
      inkscape:groupmode="layer"
-     id="layer3"
+     id="base-ponytail"
      inkscape:label="ponytail"
      transform="translate(-22.600441,-6.7725248)"><rect
        style="fill:url(#radialGradient12);stroke:#1f0c00;stroke-width:5.43655;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -419,7 +417,7 @@
        y="9.4907999"
        ry="15.938807" /></g><g
      inkscape:groupmode="layer"
-     id="layer2"
+     id="base-head"
      inkscape:label="head"
      transform="translate(-22.489583,-6.7725248)"><rect
        style="fill:#edd0ae;fill-opacity:1;stroke:none;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -428,9 +426,9 @@
        height="100.54539"
        x="43.707699"
        y="30.689802"
-       ry="38.413357" /></g><g
+       ry="42.335197" /></g><g
      inkscape:groupmode="layer"
-     id="layer7"
+     id="base-chin"
      inkscape:label="chin"
      transform="translate(-22.754166,-6.7725248)"><ellipse
        style="fill:url(#radialGradient2);fill-opacity:1;stroke:none;stroke-width:10.7982;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -440,9 +438,10 @@
        rx="13.405877"
        ry="8.6957045" /></g><g
      inkscape:groupmode="layer"
-     id="g15"
+     id="base-nose"
      inkscape:label="nose"
-     transform="translate(-22.754166,-6.7725248)"><rect
+     transform="translate(-22.754166,-6.7725248)"
+     style="display:inline"><rect
        style="fill:url(#radialGradient4);stroke:none;stroke-width:7.37633;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect15"
        width="29.958307"
@@ -451,7 +450,7 @@
        y="74.862343"
        ry="4.8845043" /></g><g
      inkscape:groupmode="layer"
-     id="layer8"
+     id="base-cheeks"
      inkscape:label="cheeks"
      transform="translate(-22.754166,-6.7725248)"><rect
        style="fill:url(#radialGradient6);stroke:none;stroke-width:7.63763;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -469,7 +468,7 @@
        y="75.137451"
        ry="6.4062023" /></g><g
      inkscape:groupmode="layer"
-     id="layer5"
+     id="base-eye-left"
      inkscape:label="left-eye"
      style="display:inline"
      transform="translate(-22.754166,-6.7725248)"><path
@@ -512,7 +511,7 @@
        transform="matrix(1.1537491,0,0,0.95839139,8.8376557,2.0173615)"
        inkscape:label="border" /></g><g
      inkscape:groupmode="layer"
-     id="g12"
+     id="base-eye-right"
      inkscape:label="right-eye"
      style="display:inline"
      transform="matrix(-1,0,0,1,149.7019,-6.7725247)"><path
@@ -555,18 +554,19 @@
        transform="matrix(1.1537491,0,0,0.95839139,8.8376557,2.0173615)"
        inkscape:label="border" /></g><g
      inkscape:groupmode="layer"
-     id="layer6"
+     id="smile-mouth"
      inkscape:label="mouth-smile"
      transform="translate(-22.754166,-6.7725248)"
-     style="display:inline"><path
+     class="tw-style tw-smile"><path
        style="fill:none;fill-opacity:1;stroke:#bf6b71;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m 59.382562,92.667964 c 15.056159,12.683756 38.016785,12.747766 53.849828,0"
        id="path14"
        sodipodi:nodetypes="cc" /></g><g
      inkscape:groupmode="layer"
-     id="g26"
+     id="biggrin-mouth"
      inkscape:label="mouth-biggrin"
      transform="translate(-22.754166,-6.7725248)"
+     class="tw-style tw-biggrin"
      style="display:none"><path
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#bf6b71;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m 113.23238,91.080464 c -6.29152,39.127266 -46.838482,39.437436 -53.849828,0 4.390599,6.279838 49.273798,6.726394 53.849828,0 z"
@@ -586,16 +586,17 @@
        id="path28"
        sodipodi:nodetypes="ccc" /></g><g
      inkscape:groupmode="layer"
-     id="g8"
+     id="base-head-border"
      inkscape:label="head-border"
-     transform="translate(-3.9154375,-6.7725248)"><rect
+     transform="translate(-3.9154375,-6.7725248)"
+     style="display:inline"><rect
        style="fill:none;fill-opacity:1;stroke:#bf6b71;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect8"
        width="84.670395"
        height="100.54539"
        x="25.133553"
        y="30.689802"
-       ry="38.413357" /></g><metadata
+       ry="42.335197" /></g><metadata
      id="metadata1"><rdf:RDF><cc:Work
          rdf:about=""><dc:title>Twinsen Emoji</dc:title><dc:description>Based on .TaKaM's original pixel art</dc:description><cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/" /></cc:Work><cc:License
